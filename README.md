@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @mastersplanet
 - 👀 I’m interested in UI & UX
 - 🌱 I’m currently learning Django and Python
+-- 🌱 I’m currently Java Script
 - 💞️ I’m looking to collaborate on flutter
 - 📫 How to reach me m_mpius on twitter
 
